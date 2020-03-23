@@ -1,0 +1,9 @@
+#search {
+    padding: 2% 3%;
+}
+
+.search {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

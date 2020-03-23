@@ -1,0 +1,12 @@
+header {
+    background: dodgerblue;
+    padding: 15px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
