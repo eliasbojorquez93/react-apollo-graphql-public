@@ -4,8 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Download [apollo-graph-express](https://github.com/eliasbojorquez93/apollo-graph-express)
 
-In the project apollo-graph-express, run:
-### `npm start`
+In the project apollo-graph-express, run `npm start`
 
 ## Instalation:
 1.- clone the project
